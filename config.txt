@@ -1,0 +1,6 @@
+owner=549374093674151943
+prefix=f
+game=type fplay
+stayinchannel=true
+songinstatus=false
+token=NTUxMTMxNDg4Mjg5MTYxMjE2.D1sg5g.aqMdnWb-gmAIVreQ7IHUxY5pAXk
